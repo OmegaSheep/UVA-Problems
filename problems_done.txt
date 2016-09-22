@@ -1,0 +1,133 @@
+# Change NO to YES, but otherwise leave the fields untouched
+
+Arithmetic:
+202: YES
+11955: YES
+Extra: YES
+
+Backtracking:
+11195: YES
+11659: YES
+Extra: YES
+
+Binary Search:
+714: NO
+10706: YES
+
+Bipartite Graphs:
+11331: YES
+11419: YES
+
+Combinatorics:
+11330: YES
+12492: YES
+Extra: YES
+
+Data Structures:
+10608: YES
+11136: YES
+Extra: YES
+
+Dynamic Programming:
+674: YES
+11584: YES
+Extra: YES
+
+Geometry:
+10136: YES
+10065: YES
+303: NO
+Extra: YES
+
+Graphs:
+10034: YES
+11765: YES
+10278: YES
+10672: YES
+
+Number Theory:
+374: YES
+11327: YES
+Extra: YES
+
+State Space Search:
+11329: NO
+
+Sorting:
+10026: YES
+10327: YES
+
+String:
+11512: YES
+11837: YES
+EXTRA: YES
+
+# Enter the ids of the problems in the categories below, one per line.
+# Also include all required problems in the list below.
+#
+# Example:
+#
+# UVa 1 Point
+# 1234
+# 5678
+# 9101112
+#
+# UVa 2 Points
+# 1010101010
+#
+# Kattis 1 Point
+#
+# Kattis 2 Points
+#
+
+UVa 1 Point
+374 	(Number Theory)
+674 	(Dynamic Programming)
+991 	(None)
+10038	(None)
+10055 	(None)
+10065	(Geometry)
+10071	(None)
+10327 	(Sorting)
+10452	(Backtracking)
+10469	(None)
+10608 	(Data Structures)
+10672	(Graphs)
+11136 	(Data Structures)
+11151 	(Dynamic Programming)
+11152 	(Geometry)
+11327	(Number Theory)
+11419	(Bipartite Graphs)
+11512 	(String)
+11584	(Dynamic Programming)
+11659 	(Backtracking)
+11765	(Graphs)
+11837	(String)
+11955 	(Arithmetic)
+12086	(Data Structures)
+12372 	(None)
+12492 	(Combinatorics)
+
+UVa 2 Points
+100 	(Arithmetic)
+119 	(None)
+202		(Arithmetic)
+389 	(None)
+401		(None)
+486 	(String)
+729 	(Combinatorics)
+1266 	(Number Theory)
+10026 	(Sorting)
+10034	(Graphs)
+10136 	(Geometry)
+10278	(Graphs)
+10706 	(Binary Search)
+11195 	(Backtracking)
+11254	(None)
+11330 	(Combinatorics)
+11331 	(Bipartite Graphs)
+
+Kattis 1 Point
+
+Kattis 2 Points
+
