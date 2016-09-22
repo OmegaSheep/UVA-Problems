@@ -5,4 +5,4 @@ The majority of the problems solved here were done as course work for <a href=ht
 
 Problems are named according to problem number on the UVa Online Judge website. The two folders indicate how many points the problems were worth in my CMPUT 403 class (1 or 2 points), which was based on the percentage of users who could solve it. (80% solve rate boundary).
 
-Finally, in the spirit of competitive programming competitions, these problems were solved with the goal of creating a solution quickly and efficiently, not necessarily in the most structured fashion. Keep this in mind as you read them.
+Finally, in the spirit of competitive programming competitions, these problems were solved with the goal of creating a solution quickly and efficiently, not necessarily in the most structured fashion. Keep this in mind as you read. Feel free to test re-submitting them or fork the repo to improve upon my solutions.
